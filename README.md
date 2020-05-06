@@ -13,4 +13,5 @@ A repo to hold ``.json`` annotation files for HowGate piglets.
 ### after marks are changed (happens on 11-11-2019)
 - [X] test_pigs_2_12_19/2019-12-02--12:45:38/000005/ (ranges to check)
 - [X] test_pigs_11_11_19/2019-11-11--11:34:50/000028/
+- [ ] test_pigs_22_11_19/2019-11-22--11:20:15/000010
 - [ ] test_pigs_11_11_19/2019-11-11--11:34:50/000036/-- assigned to Stefano
